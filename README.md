@@ -26,6 +26,6 @@ For example, with the following graph, the file will contain the following infor
 
 4) Display the shortest path found by Dijkstra's algorithm along with Node IDs so that Dr. Dutta can verify the correctness of the solution.  
 • You can use the code provided by Dr. Dutta in the classroom.  
-• GraphStream's example to color nodes on the shortest path: https://graphstream-project.org/doc/Algorithms/Shortest-path/Dijkstra/ (Links to an external site.)   
+• GraphStream's example to color nodes on the shortest path: https://graphstream-project.org/doc/Algorithms/Shortest-path/Dijkstra/ (Links to an external site.) 
 
-5)You can only use the topics discussed in the classroom so far to implement this.  
+5) You can only use the topics discussed in the classroom so far to implement this.  
