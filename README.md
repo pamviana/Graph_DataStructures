@@ -1,3 +1,5 @@
+Project developed by Professor Ayan Dutta for the Data Structures class at University of North Florida, Fall 2021.
+
 # Creating a Graph with GraphStream
 1) Read the adjacency list of an undirected graph from a text file called "graph.txt".  
 • The edge weights are 1.  
